@@ -1,6 +1,6 @@
 <div>
   
-  <!-- **moneyhunter142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+  <!-- **juractor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
   
   <details>
   <summary><b>Skills & Technology</b></summary>
@@ -46,6 +46,6 @@
 </div>
 
 <!---
-moneyhunter142/moneyhunter142 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+juractor/juractor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
