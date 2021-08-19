@@ -7,31 +7,18 @@
     <p align="center">
     <br/><br/>
     <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs_larger.svg" alt="nodejs" style="vertical-align:top; margin:4px"> 
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/ionic.svg" alt="ionic" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/security.svg" alt="security" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/dockerhub.svg" alt="dockerhub" style="vertical-align:top; margin:4px"> 
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/kubernetes.svg" alt="kubernetes" style="vertical-align:top; margin:4px"> 
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px"> 
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:4px"> 
     </p>
     <br/>
-  <div align="center">
-    
-  [![amdev142's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amdev142&layout=compact)]()
-  </div>
   </details>
   <details>
     <summary><b>Pinned Repositories</b></summary>
     <p align="center">
-    <img alt="Pinned Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=kurtrdev&repo=kurtrdev&hide_border=true&theme=dracula"/>
+    <img alt="Pinned Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=juractor&repo=juractor&hide_border=true&theme=dracula"/>
     </p>
   </details>
   <p align="center">
@@ -41,7 +28,6 @@
       <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="#" height="30" width="40" /></a>
       <a href="https://fb.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="#" height="30" width="40" /></a>
       <a href="https://instagram.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="__agungid" height="30" width="40" /></a>
-      <a href="https://codepen.io/kurtrdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="kurt1337" height="30" width="40" /></a>
     </p>
 </div>
 
